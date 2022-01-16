@@ -1,6 +1,6 @@
 # TIL
 
-#스프링 부트
+# 스프링 부트
 - Spring Boot는 단순히 실행되며, 프로덕션 젬품 수준의 스프링 기반 어플리케이션을 쉽게 만들 수 있다.
 - Spring boot 어플리케이션에는 spring 구성이 거의 필요하지 않다
 - Spring Boot  java-jar로 실행하는 java어플리케이션을 만들 수 있다
